@@ -39,7 +39,7 @@
 			<artifactId>aspectjrt</artifactId>
 			<version>${org.aspectj-version}</version>
 		</dependency>
-		<!-- any old comment -->
+		<!-- any old comment edit -->
 		<!-- Logging -->
 		<dependency>
 			<groupId>org.slf4j</groupId>
